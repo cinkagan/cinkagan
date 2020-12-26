@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm S. Kağan Cin</h1>
 <h3 align="center">A passionate full developer from Turkey</h3>
 
-[![cinkagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinkagan&show_icons=true&theme=radical)](https://github.com/cinkagan)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [BigO Notasyonu ve Kısaca Algoritma Maliyet Hesabı](https://medium.com/@cinkagan/bigo-notasyonu-ve-k%C4%B1saca-algoritma-maliyet-hesab%C4%B1-808b425fc5f5?source=rss-84ed2ad14f2b------2)
